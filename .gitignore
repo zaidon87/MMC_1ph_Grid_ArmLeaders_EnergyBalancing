@@ -1,0 +1,20 @@
+# Simulink / MATLAB generated files
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+*.slxc
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.p
+*.mat
+*.fig
+*.log
+*.tmp
+*.bak
+# Local user/cache files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

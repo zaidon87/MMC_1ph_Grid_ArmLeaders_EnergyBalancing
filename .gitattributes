@@ -1,0 +1,5 @@
+# SLX is a binary container; keep Git handling predictable
+*.slx binary
+*.mdl text
+*.m text
+*.md text
